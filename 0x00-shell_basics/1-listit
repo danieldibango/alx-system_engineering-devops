@@ -1,2 +1,2 @@
-the command to display the content of my current working directory is ls.
-ls displays all files in the working directory except hidden files.
+#!/bin/bash 
+ the command to display the content of my current working directory is ls
