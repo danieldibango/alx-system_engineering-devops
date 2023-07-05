@@ -1,2 +1,2 @@
 #!/bin/bash 
- the command to display the content of my current working directory is ls
+echo "$(ls)"
