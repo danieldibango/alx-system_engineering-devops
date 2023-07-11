@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Set some example environment variables
+export MY_VAR="Hello"
+export MY_PATH="/usr/bin"
+export MY_USER="$USER"
+
+# Display all environment variables using set
+set
+
+# Display specific environment variables
+echo "MY_VAR: $MY_VAR"
+echo "MY_PATH: $MY_PATH"
+echo "MY_USER: $MY_USER"
